@@ -87,7 +87,7 @@ while True:
 - Os dados são enviados para a plataforma ThingSpeak para visualização em tempo real.
 - Se a temperatura exceder 31°C ou a umidade ultrapassar 70%, o relé é ativado para controlar dispositivos (por exemplo, ventiladores).
 
-## Considerações Finais
+# Considerações Finais
 
 Este projeto proporciona uma introdução prática ao uso do ESP32 e sensores em aplicações IoT. Através da coleta e análise de dados, é possível implementar soluções que ajudam a melhorar o conforto e a eficiência energética em ambientes internos.
 
